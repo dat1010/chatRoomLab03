@@ -30,7 +30,7 @@ int main(int argc , char *argv[])
     }
 
     puts("Connected\n");
-    puts("Bienvenido al Chatroom, puedes empezar a escribir en la sala!");
+    puts("Chatroom.");
 
     //keep communicating with server
     while(1)
